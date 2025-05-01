@@ -55,6 +55,8 @@ class ViewController: UIViewController {
             
         }
         
+        // githubファーストコミット用コメント
+        
     }
 
     @IBAction func reset() {
